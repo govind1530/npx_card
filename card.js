@@ -41,7 +41,7 @@ const data = {
         .bold("Some IT Company")}`,
     github: chalk.gray("https://github.com/") + chalk.green("govind1530"),
     linkedin: chalk.gray("https://linkedin.com/in/") + chalk.blue("govind-bagla-75ab32b3"),
-    npx: chalk.red("npx") + " " + chalk.white("govind1530"),
+    npx: chalk.red("npx") + " " + chalk.white("govindmaheshwari"),
 
     labelWork: chalk.white.bold("       Work:"),
     labelGitHub: chalk.white.bold("     GitHub:"),
@@ -68,7 +68,7 @@ const me = boxen(
             " I believe in constant learning and exploring new things. a bit about me,  I like to travel and foodie"
         )}`,
         `${chalk.italic(
-            " Javascript, React Native"
+            "Tech Stack: Javascript, React Native"
         )}`
     ].join("\n"),
     {
