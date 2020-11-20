@@ -41,7 +41,7 @@ const data = {
         .bold("Some IT Company")}`,
     github: chalk.gray("https://github.com/") + chalk.green("govind1530"),
     linkedin: chalk.gray("https://linkedin.com/in/") + chalk.blue("govind-bagla-75ab32b3"),
-    npx: chalk.red("npx") + " " + chalk.white("govindmaheshwari"),
+    npx: chalk.red("npm i") + " " + chalk.white("govindmaheshwari"),
 
     labelWork: chalk.white.bold("       Work:"),
     labelGitHub: chalk.white.bold("     GitHub:"),
